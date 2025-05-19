@@ -42,5 +42,6 @@ PER QUALSIASI COSA PUò ESSERE SEGNALATO SUL SERVER DISCORD DI NIKSTUDIOS.
 ---
 
 ## 📦 Installazione
-
+installa il .zip estrailo dove vuoi con il MetroFramework.dll nella stessa directory con il .exe
+una volta fatto ciò aprilo e dovresti già vederlo partire!
 
