@@ -21,6 +21,7 @@ PER QUALSIASI COSA PUò ESSERE SEGNALATO SUL SERVER DISCORD DI NIKSTUDIOS.
 - ⏱️ Veloce e falice da usare!
 - 🔄 Conversione inversa! .JSON -> .CSM o viceversa! 
 - 🌐 Avvisi di aggiornamenti Via App 
+- 🌍 Sistema linguistico buono
 ---
 
 ## 🖼️ Anteprima
