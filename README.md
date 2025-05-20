@@ -1,6 +1,6 @@
 # ✨ JSON Converter for Custom Skins ✨
 
-![License](https://img.shields.io/github/license/Nikstudiosmc/MagicBox-LED-Controller?style=for-the-badge) 
+
 ![Status](https://img.shields.io/badge/status-Active-brightgreen?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/CSM-Converter-blue?style=for-the-badge)
 
