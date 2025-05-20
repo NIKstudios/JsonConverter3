@@ -1,47 +1,47 @@
-# ✨ Json Converter For Custom Skin ✨
+# ✨ JSON Converter for Custom Skins ✨
 
 ![License](https://img.shields.io/github/license/Nikstudiosmc/MagicBox-LED-Controller?style=for-the-badge) 
 ![Status](https://img.shields.io/badge/status-Active-brightgreen?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/CSM-Converter-blue?style=for-the-badge)
 
-
-
 ---
-# ⚠ AVVERTIMENTO ⚠
 
-IL CREATORE NON é RESPONSABILE PER CHI LO USA PER RUBARE MODELLI O PER SPACCIARLI SUOI
-PER QUALSIASI COSA PUò ESSERE SEGNALATO SUL SERVER DISCORD DI NIKSTUDIOS.
+# ⚠ WARNING ⚠
 
+**The creator is NOT responsible for anyone using this tool to steal models or claim them as their own.  
+Any abuse can be reported on the Nikstudios Discord server.**
 
 ---
 
-## 🚀 Funzionalità principali
+## 🚀 Main Features
 
-- 🖥️ Schermata GUI facile da interagire con un sistema di multilingua!
-- ⏱️ Veloce e falice da usare!
-- 🔄 Conversione inversa! .JSON -> .CSM o viceversa! 
-- 🌐 Avvisi di aggiornamenti Via App 
-- 🌍 Sistema linguistico buono
----
-
-## 🖼️ Anteprima
-
-![Anteprima del progetto](./ProgramImage/LogoHome.png)
--
-![Anteprima del progetto](./ProgramImage/BlockBenchModel.png)
--
-![Anteprima del progetto](https://cdn.discordapp.com/attachments/758813655952523264/821777423854207026/unknown.png?ex=682ca95d&is=682b57dd&hm=f28f650998379a63ff48892529271ef968097ec64b6734d741862c6298cb4085&)
+- 🖥️ User-friendly GUI with multilingual support
+- ⏱️ Fast and easy to use
+- 🔄 Reverse conversion: .JSON → .CSM or on the contrary
+- 🌐 Update notifications directly in the app
+- 🌍 Built-in language system
 
 ---
 
-## 🔧 Requisiti
+## 🖼️ Preview
+
+![Project Preview](./ProgramImage/LogoHome.png)  
+![Project Preview](./ProgramImage/BlockBenchModel.png)  
+![Project Preview](https://cdn.discordapp.com/attachments/758813655952523264/821777423854207026/unknown.png?ex=682ca95d&is=682b57dd&hm=f28f650998379a63ff48892529271ef968097ec64b6734d741862c6298cb4085&)
+
+---
+
+## 🔧 Requirements
 
 - PCK Studio  
-- Un FIle Json ( Fatto in BlockBench )  o un file CSM per fare un .json  
+- A `.json` file (created in Blockbench) or a `.csm` file to convert into `.json`
 
 ---
 
-## 📦 Installazione
-installa il .zip estrailo dove vuoi con il MetroFramework.dll nella stessa directory con il .exe
-una volta fatto ciò aprilo e dovresti già vederlo partire!
+## 📦 Installation
 
+1. Download and extract the `.zip` file anywhere you prefer.
+2. Make sure `MetroFramework.dll` is in the **same folder** as the `.exe`.
+3. Run the `.exe` file — the application should launch immediately!
+
+---
